@@ -4,7 +4,7 @@ Tital: Simentic Web Assingment one(xml,xpath,xsl)
 
 Student details:
 	Name: G S S Perera.
-	EP No: EP1478.
+	
 	
 
 1. First extract assingment.zip file.
